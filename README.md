@@ -1,7 +1,7 @@
 # Data Analysis
-Analisis de datos con Python
+## Analisis de datos con Python
 
-## Requisitos:
+### Requisitos:
 - Instalar Anaconda
 - Lanzar Jupyter
 - Conocer Python y programación básica
